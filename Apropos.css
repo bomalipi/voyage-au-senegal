@@ -1,0 +1,38 @@
+body{
+    background-color: limegreen;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    text-justify: auto;
+
+}
+h1{
+    text-align: center;
+    font-size: 30PX;
+    background-color:yellow;
+    border-radius: 20PX;
+    
+}
+.propos{
+    padding: 20px;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+}
+
+img{
+    border-radius: 10%;
+    padding: 20px;
+}
+.nb{
+    padding: 20px;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+}
+.ft{
+    text-align: center;
+    background-color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+
+}
